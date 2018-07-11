@@ -13,7 +13,7 @@ end
 
 
 
-def add_colors; 
+def add_colors
   RAINBOW_COLORS << "green"
  RAINBOW_COLORS << "blue"
 end
