@@ -1,4 +1,4 @@
-rainbow_colors = [
+ = [
   "yellow",
   "default",
   "light_cyan"
@@ -16,5 +16,4 @@ end
 def add_colors; 
   RAINBOW_COLORS << "green"
  RAINBOW_COLORS << "blue"
-  return RAINBOW_COLORS
 end
