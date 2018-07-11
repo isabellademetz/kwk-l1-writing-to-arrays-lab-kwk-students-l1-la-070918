@@ -1,4 +1,4 @@
- = [
+ RAINBOW_COLORS = [
   "yellow",
   "default",
   "light_cyan"
